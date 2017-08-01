@@ -5,3 +5,4 @@ Conversion fucntions needed:
 - Hours to Minutes
 - Feet to Inches
 - Degrees to Radians
+- CGS to SI
